@@ -12,4 +12,4 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel lorem vel sapien feugiat malesuada. Integer posuere, justo eget tincidunt facilisis, mauris turpis tincidunt nisi, sed vulputate sapien libero vitae arcu.
 
-![](/images/azeezchukwu.jpg)
+![](/images/profesional-pics.jpg)
