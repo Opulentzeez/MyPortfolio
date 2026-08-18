@@ -284,3 +284,11 @@ footer {
 .blog-preview h2 a:hover {
   color: #7cf5d8;
 }
+
+.page-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 20px 0;
+  display: block;
+}
